@@ -1,0 +1,17 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
+  "name": "Symbols",
+  "author": "Miguel Solorio",
+  "themes": [
+    {
+      "name": "Symbols",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder.svg"
+      },
+      "file_icons": {
+        "javascript": { "path": "./icons/javascript.svg" }
+      }
+    }
+  ]
+}
