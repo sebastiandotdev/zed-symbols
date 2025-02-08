@@ -7,7 +7,8 @@
       "name": "Symbols",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/folder.svg"
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder.svg"
       },
       "file_icons": {
         "javascript": { "path": "./icons/javascript.svg" },
