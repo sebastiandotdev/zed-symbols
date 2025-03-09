@@ -7,8 +7,8 @@
       "name": "Symbols",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/folders/folder.svg",
-        "expanded": "./icons/folders/folder-open.svg"
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder-open.svg"
       },
       "file_stems": {
         "LICENSE": "license",
